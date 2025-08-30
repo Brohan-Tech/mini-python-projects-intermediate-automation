@@ -6,7 +6,7 @@ This repository contains **3 mini Python projects** designed for intermediate le
 
 ## Projects
 
-### 1. 🗂 Automated Backup Script (`backup.py`)
+### 1. Automated Backup Script (`backup.py`)
 - **Description:** Creates daily backups of a specified folder and stores them with the current date in a destination directory. Uses `schedule` for task automation.
 - **Features:**
   - Runs automatically at a specified time.
